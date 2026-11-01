@@ -1,0 +1,6 @@
+{
+  "name": "DangerGPT",
+  "description": "Ultra-fast and razor-sharp AI assistant offering instant answers, pictures, videos, and an advanced forensic photo scanner lab detecting AI modifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
